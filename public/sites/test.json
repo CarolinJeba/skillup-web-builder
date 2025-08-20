@@ -1,0 +1,33 @@
+{
+  "slug": "test",
+  "blocks": [
+    {
+      "id": "hero_3vbjzu",
+      "type": "hero",
+      "title": "Your big title",
+      "subtitle": "A short subtitle"
+    },
+    {
+      "id": "text_bxdfrd",
+      "type": "text",
+      "text": "tretfdtrtrtWrite somrething compelling here."
+    },
+    {
+      "id": "image_wvm99b",
+      "type": "image",
+      "src": "https://placehold.co/600x300",
+      "alt": "Placeholder"
+    },
+    {
+      "id": "button_zwk6f9",
+      "type": "button",
+      "label": "Get Started",
+      "href": "#"
+    },
+    {
+      "id": "form_4no24n",
+      "type": "form",
+      "title": "Register"
+    }
+  ]
+}
